@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-03-25T01:43:54.242952",
+    "user_id": "user_0",
+    "status": "allowed",
+    "reason": "OK"
+  },
+  {
+    "timestamp": "2026-03-25T01:43:54.242969",
+    "user_id": "user_1",
+    "status": "allowed",
+    "reason": "OK"
+  },
+  {
+    "timestamp": "2026-03-25T01:43:54.242978",
+    "user_id": "user_2",
+    "status": "allowed",
+    "reason": "OK"
+  },
+  {
+    "timestamp": "2026-03-25T01:43:54.242986",
+    "user_id": "user_0",
+    "status": "allowed",
+    "reason": "OK"
+  },
+  {
+    "timestamp": "2026-03-25T01:43:54.242994",
+    "user_id": "user_1",
+    "status": "allowed",
+    "reason": "OK"
+  },
+  {
+    "timestamp": "2026-03-25T01:43:54.243000",
+    "user_id": "user_2",
+    "status": "allowed",
+    "reason": "OK"
+  },
+  {
+    "timestamp": "2026-03-25T01:43:54.243007",
+    "user_id": "user_0",
+    "status": "allowed",
+    "reason": "OK"
+  },
+  {
+    "timestamp": "2026-03-25T01:43:54.243020",
+    "user_id": "user_1",
+    "status": "allowed",
+    "reason": "OK"
+  },
+  {
+    "timestamp": "2026-03-25T01:43:54.243028",
+    "user_id": "user_2",
+    "status": "allowed",
+    "reason": "OK"
+  },
+  {
+    "timestamp": "2026-03-25T01:43:54.243032",
+    "user_id": "user_0",
+    "status": "blocked",
+    "reason": "Слишком много запросов за минуту (лимит: 3)"
+  }
+]
