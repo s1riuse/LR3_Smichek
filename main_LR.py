@@ -29,7 +29,7 @@ for i in range(15):
     Am = k * 1 / T * (C - Aj)
     C_ost -= Am.subs({C: 1000000, T: 15, L: 0})
     Am_lst_2.append(
-        round(Am.subs({C: 1000000, T: 15, L: 0}), 2)
+        round(Am.subs({C: 1000001, T: 15, L: 0}), 2)
     )
     Aj += Am
     C_ost_lst_2.append(round(C_ost, 2))
