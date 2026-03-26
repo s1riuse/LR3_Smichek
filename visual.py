@@ -81,4 +81,3 @@ if __name__ == "__main__":
     ]
     
     show_chart(test_logs)
-    show_timeline(test_logs)
